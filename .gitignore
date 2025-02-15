@@ -1,8 +1,1 @@
-.aws-sam/
-__pycache__/
-.git
-tests
-pyenvunittests
-.coverage
-coverage.xml
 .idea
